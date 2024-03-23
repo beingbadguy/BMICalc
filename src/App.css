@@ -1,0 +1,29 @@
+* {
+  /* font-family: 'General Sans', sans-serif; */
+  /* font-family: 'Satoshi', sans-serif; */
+  font-family: 'Clash Display', sans-serif;
+  /* font-family: 'Stardom', sans-serif; */
+  /* font-family: 'Poppins', sans-serif; */
+  /* font-family: 'Pencerio', cursive; */
+}
+body {
+  overflow: hidden;
+}
+h1 {
+  color: slategrey;
+}
+.box {
+  box-shadow: 1px 1px 1px 1px gray;
+}
+
+.result {
+  transform: translateY(200px);
+  transition: all 0.4s ease;
+  font-size: 15px;
+  font-family: 'General Sans', sans-serif;
+  padding: 0px 55px;
+}
+.note {
+  font-size: 15px;
+  font-family: 'General Sans', sans-serif;
+}
